@@ -18,6 +18,3 @@ npm install --save-dev https://github.com/rackt/eslint-config-rackt.git
     "extends": "eslint-config-rackt"
 }
 ```
-
-# TODO
-Publish to npm so consumers' npm install looks like `npm install --save-dev eslint-config-rack`.
