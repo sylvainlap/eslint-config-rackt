@@ -9,12 +9,12 @@ All configs should be defined in index.js rather than .eslintrc.
 # Usage
 
 ```bs
-npm install --save-dev https://github.com/rackt/eslint-config-rackt.git
+npm install --save-dev eslint-config-rackt
 ```
 
 .eslintrc
 ```json
 {
-    "extends": "eslint-config-rackt"
+    "extends": "rackt"
 }
 ```
