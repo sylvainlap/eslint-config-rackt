@@ -1,6 +1,7 @@
 module.exports = {
   "extends": "eslint:recommended",
   "ecmaFeatures": {
+    "jsx": true,
     "modules": true
   },
   "env": {
