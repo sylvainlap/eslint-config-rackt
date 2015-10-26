@@ -17,6 +17,7 @@ module.exports = {
       "SwitchCase": 1
     }],
     "no-multiple-empty-lines": 2,
+    "no-var": 2,
     "object-curly-spacing": [2, "always"],
     "quotes": [2, "single", "avoid-escape"],
     "semi": [2, "never"],
