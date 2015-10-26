@@ -14,6 +14,7 @@ module.exports = {
     "comma-dangle": [ 2, "never" ],
     "eol-last": 2,
     "indent": [ 2, 2, { "SwitchCase": 1 } ],
+    "jsx-quotes": [ 2, "prefer-double" ],
     "no-multiple-empty-lines": 2,
     "no-unused-vars": 2,
     "no-var": 2,
