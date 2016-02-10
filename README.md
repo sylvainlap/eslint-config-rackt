@@ -7,7 +7,7 @@ The majority of ESLint config should be defined here rather than each project's 
 ## Usage
 
 ```bs
-npm install --save-dev eslint-config-rackt
+npm install --save-dev eslint-config-rackt babel-eslint
 ```
 
 Then, extend `rackt` in your `.eslintrc`:
